@@ -1,0 +1,10 @@
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\bin\Release\hidden-tear.exe.config
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\bin\Release\hidden-tear.exe
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\bin\Release\hidden-tear.pdb
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Release\hidden_tear.Form1.resources
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Release\hidden_tear.Properties.Resources.resources
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Release\hidden-tear.csproj.GenerateResource.Cache
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Release\hidden-tear.csproj.CoreCompileInputs.cache
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Release\hidden-tear.exe
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Release\hidden-tear.pdb
+C:\Users\Cristopher M.R\Desktop\hidden-tear-master\hidden-tear\hidden-tear\obj\Release\hidden-tear.csprojResolveAssemblyReference.cache
